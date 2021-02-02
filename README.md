@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Deployement URL
-This project has been published with the url: ### `https://firdiansyah26.github.io/web-pokedex/`
+This project has been published with the url: https://firdiansyah26.github.io/web-pokedex/
 
 ## Available Scripts
 
