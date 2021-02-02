@@ -2,9 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This project has been published with the url: https://firdiansyah26.github.io/web-pokedex/
+
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you can run: (Node 12.0.0)
 
 ### `yarn start`
 
