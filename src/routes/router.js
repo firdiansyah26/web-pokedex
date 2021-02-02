@@ -6,9 +6,8 @@ import Detail from './Detail/Detail'
 
 const AppRoute = () => {
     return (
-        <Router>
+        <Router basename="/web-pokedex">
             <TemplateHeader />
-
             <Switch>
                 <Route path="/" exact>
                     <Home />
